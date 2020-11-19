@@ -37,7 +37,8 @@ public class UserController {
 		User user = new User();
 		user.setUser(username);
 		user.setPwd(pwd);
-		user.setToken(token);		
+		user.setToken(token);
+			logLogeo.debug("logeo de usueario exitoso");
 		return user;
 		}else{
 			logLogeo.info("no se entro usueario");
