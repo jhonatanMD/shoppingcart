@@ -1,0 +1,7 @@
+com\api\carrito\ws\controller\ApiProductoControllerTest.class
+com\api\carrito\ws\controller\ApiClienteControllerTest.class
+com\api\carrito\ws\service\ServiceClienteImplTest.class
+com\api\carrito\ws\service\ServiceVentaImplTest.class
+com\api\carrito\ws\JavaBackEndSoaIntApplicationTests.class
+com\api\carrito\ws\service\ServiceProductoImplTest.class
+com\api\carrito\ws\service\ServiceDetalleVentaImplTest.class
