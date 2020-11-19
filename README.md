@@ -34,7 +34,7 @@ o si estas en cualquier otro IDE actualizar las dependecias del maven para que p
 
 * Dentro del IDE buscar el main que se encuentra en la clase JavaBackEndSoaIntApplication.java darle click derecho y hacer correr programa (Run as Java Application) 
 
-* Para configurar el archivo de salida los log ir a resources/log4j.properties (modificar variable ruta.file.log)
+* Para configurar el archivo de salida los log ir a resources/log4j.properties (modificar variable ruta.file.log , la creacion de archivos funciona localmente)
 
 * Para configura puerto , conexion a base de datos o usuario de token ir a resources/application.properties
 
